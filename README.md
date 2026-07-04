@@ -1,5 +1,6 @@
-https://github.com/lakshayavardhangupta-gif/lakshayavardhangupta-gif/blob/main/assets/banner.png
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lakshayavardhangupta-gif/lakshayavardhangupta-gif/main/assets/banner.png" width="100%" alt="Welcome to Lakshyavardhan's GitHub Banner">
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Lakshyavardhan+Gupta;B.Tech+Cybersecurity+Student;AI+Enthusiast;Cybersecurity+%7C+SOC+%7C+GRC;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
