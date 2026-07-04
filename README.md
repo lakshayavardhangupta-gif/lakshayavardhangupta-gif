@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/lakshayavardhangupta-gif/lakshayavardhangupta-gif/blob/main/assets/banner.png" width="100%" alt="Welcome to Lakshyavardhan's GitHub Banner"/>
+  <img src="<img width="1774" height="887" alt="ChatGPT Image Jul 4, 2026 at 08_08_57 PM" src="https://github.com/user-attachments/assets/9f10e17c-3e6c-41fe-8785-1e3491835625" />
+" width="100%" alt="Welcome to Lakshyavardhan's GitHub Banner"/>
 </p>
 
 <p align="center">
