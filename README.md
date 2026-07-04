@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK_HERE" width="100%" alt="Welcome to Lakshyavardhan's GitHub Banner"/>
+  <img src="https://github.com/lakshayavardhangupta-gif/lakshayavardhangupta-gif/blob/main/assets/banner.png" width="100%" alt="Welcome to Lakshyavardhan's GitHub Banner"/>
 </p>
 
 <p align="center">
