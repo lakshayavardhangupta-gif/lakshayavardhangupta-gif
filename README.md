@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="image.png" width="100%" alt="GitHub Banner">
+</p>
+
+<br>
 # Hi 👋 I'm Lakshyavardhan Gupta
 
 ### Cybersecurity Student | AI Security Enthusiast
