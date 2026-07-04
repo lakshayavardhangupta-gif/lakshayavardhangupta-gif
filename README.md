@@ -9,13 +9,10 @@
 </h2>
 
 <h3 align="center">
-  B.Tech Cybersecurity Student | AI Enthusiast | Software Developer
+  B.Tech Cybersecurity Student | AI Enthusiast | SOC Analyst
 </h3>
 
 ---
-
-
-🎓 B.Tech Cybersecurity Student
 
 🔐 Interested in
 
