@@ -1,13 +1,17 @@
-
-</p><img width="1983" height="793" alt="ChatGPT Image Jul 4, 2026 at 07_39_03 PM" src="https://github.com/user-attachments/assets/3c1eb649-f4c9-42b1-bc57-3f11b8a1189a" />
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Taruna+Jain;B.Tech+Cybersecurity+Student;AI+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="YOUR_BANNER_IMAGE_LINK_HERE" width="100%" alt="Welcome to Lakshyavardhan's GitHub Banner"/>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Lakshyavardhan+Gupta;B.Tech+Cybersecurity+Student;AI+Enthusiast;Cybersecurity+%7C+SOC+%7C+GRC;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
+
 <h2 align="center">
-Welcome to my GitHub 👋
+  Welcome to Lakshyavardhan's GitHub 👋
 </h2>
+
 <h3 align="center">
-B.Tech Cybersecurity Student | AI Enthusiast | Software Developer
+  B.Tech Cybersecurity Student | AI Enthusiast | Software Developer
 </h3>
 
 ---
